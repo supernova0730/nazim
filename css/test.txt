@@ -1,0 +1,111 @@
+/*@media (max-width: 1200px) {
+	.school {
+		background-size: contain;
+	}
+	
+	.for .for__inner {
+		width: 100%;
+	}
+
+	.program .cards {
+		width: 100%;
+	}
+
+	.program .cards .cards__item {
+		margin: auto 15px 40px; 
+	}
+
+}
+
+@media (max-width: 992px) {
+	header .links {
+		display: none;
+	}
+
+	header .burger {
+		display: block;
+	}
+
+	.intro .intro__inner .left {
+		flex-basis: 100%;
+		text-align: center;
+		margin-bottom: 85px;
+	}
+
+	.intro .intro__inner .right {
+		flex-basis: 40%;
+	}
+
+	.intro .video {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+	}
+
+	.school .triangle p:nth-child(2) {
+		width: 470px;
+	}
+
+	.about .about__inner .left {
+		text-align: center;
+		flex-basis: 100%;
+	}
+
+	.about .about__inner .right {
+		flex-basis: 100%;
+		text-align: center;
+		padding: 90px 0 60px;
+	}
+
+	.for .for__inner .items {
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;
+		height: 270px;
+		margin-bottom: 50px;
+	}
+
+	.for .for__inner .items .item:nth-child(1n) {
+		align-self: center;
+	}
+	
+	.for .for__inner .items .item:nth-child(2n) {
+		align-self: center;
+	}
+
+	.for .for__inner .items .item {
+		/*margin-bottom: 50px;*/
+	}
+/*
+	.school .triangle .triangle__inner {
+		display: flex;
+		justify-content: space-between;
+		width: 100%;
+	}
+
+	.school .triangle .triangle__inner img {
+		width: 50%;
+		position: relative;
+	}
+
+	.school .triangle .triangle__inner p {
+		font-size: 19px;
+	}
+}*/
+
+/*@media (max-width: 768px) {*/
+	/*.intro .intro__inner {
+		flex-direction: column;
+	}
+
+	.intro .intro__inner .right{
+		flex-basis: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.intro .video {
+		display: none;
+	}*/
+/*}*/
